@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="StartGradle" target="23" />
+      <module name="StartGradle.main" target="23" />
+      <module name="StartGradle.test" target="23" />
       <module name="test" target="23" />
       <module name="test.main" target="23" />
       <module name="test.test" target="23" />
