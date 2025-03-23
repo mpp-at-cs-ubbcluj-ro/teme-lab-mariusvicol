@@ -5,6 +5,9 @@
       <module name="Laborator3" target="23" />
       <module name="Laborator3.main" target="23" />
       <module name="Laborator3.test" target="23" />
+      <module name="Laborator5" target="23" />
+      <module name="Laborator5.main" target="23" />
+      <module name="Laborator5.test" target="23" />
       <module name="StartGradle" target="23" />
       <module name="StartGradle.main" target="23" />
       <module name="StartGradle.test" target="23" />
